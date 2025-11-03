@@ -31,7 +31,7 @@ The system consists of:
 
 ```bash
 # Clone the repository
-git clone https://github.com/optimusprimeg/AI-Agent-Prototype.git
+git clone https://github.com/Yash-kumar04/Expense-Classifier-AI.git
 cd AI-Agent-Prototype
 
 # Install dependencies
