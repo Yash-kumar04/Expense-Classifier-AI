@@ -272,23 +272,13 @@ AI-Agent-Prototype/
 ## Quick Assets & Test Links
 
 - Test image files:
-  - Inline: ![test_1](./tests/test_1.png)
-  - Inline: ![test_2](./tests/test_2.png)
-  - Inline: ![test_3](./tests/test_3.png)
+  - Inline: ![1](test_1.png)
+  - Inline: ![2](test_2.png)
+  - Inline: ![3](test_3.png)
   - Direct links:
-    - [test_1.png](./tests/test_1.png)
-    - [test_2.png](./tests/test_2.png)
-    - [test_3.png](./tests/test_3.png)
+    - [1](test_1.png)
+    - [2](test_2.png)
+    - [3](test_3.png)
 
 - Demo video (WebM):
-  - [Open train_test_video.webm](./assets/train_test_video.webm)
-  - To open the video in the host default browser from the devcontainer terminal:
-    ```
-    $BROWSER "$(pwd)/assets/train_test_video.webm"
-    ```
-
-> Note: Ensure the PNG files are placed under ./tests/ and the WebM file is under ./assets/. If they don't exist, add them to those folders.
-
-## License
-
-This project is for educational purposes as part of the DS Internship Assignment.
+  - [Open train_test_video.webm](train_test_video.webm)
