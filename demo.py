@@ -38,9 +38,9 @@ def main():
     ║                                                                            ║
     ║        AI AGENT EXPENSE CATEGORIZATION SYSTEM - DEMO                       ║
     ║                                                                            ║
-    ║        Student: Optimus Prime                                              ║
-    ║        University: Autonomous University                                   ║
-    ║        Department: Computer Science                                        ║
+    ║        Student: Yash Kumar                                             ║
+    ║        University: Indian Institute of Technology Kanpur                                   ║
+    ║        Department: Civil Engineering                                        ║
     ║                                                                            ║
     ╚════════════════════════════════════════════════════════════════════════════╝
     """)
