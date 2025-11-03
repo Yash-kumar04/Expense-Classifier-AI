@@ -269,6 +269,26 @@ AI-Agent-Prototype/
 - Mobile app integration
 - Active learning from user corrections
 
+## Quick Assets & Test Links
+
+- Test files:
+  - [test_1](./tests/test_1.txt)
+  - [test_2](./tests/test_2.txt)
+  - [test_3](./tests/test_3.txt)
+
+- Demo video (WebM):
+  - [Open demo.webm](./assets/demo.webm)
+  - To open in the host default browser from the devcontainer terminal:
+    ```
+    $BROWSER "$(pwd)/assets/demo.webm"
+    ```
+
+- Demo image:
+  - Inline: ![Demo Image](./assets/demo.png)
+  - Direct link: ./assets/demo.png
+
+> Note: Create the referenced files under ./tests/ and ./assets/ if they don't exist.
+
 ## License
 
 This project is for educational purposes as part of the DS Internship Assignment.
